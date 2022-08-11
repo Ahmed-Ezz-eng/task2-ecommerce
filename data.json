@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "awesome chair",
+            "img": "./images/image1.jpeg",
+            "price": "271.00",
+            "discount": "256.00",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore, qui voluptas, illum provident rem reiciendis impedit excepturi dolor accusantium, minus blanditiis voluptates saepe laboriosam itaque dolores aperiam rerum molestias."
+        },
+
+        {
+            "id": 2,
+            "title": "awesome chair",
+            "img": "./images/image2.jpeg",
+            "price": "271.00",
+            "discount": "256.00",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore, qui voluptas, illum provident rem reiciendis impedit excepturi dolor accusantium, minus blanditiis voluptates saepe laboriosam itaque dolores aperiam rerum molestias."
+        },
+
+        {
+            "id": 3,
+            "title": "awesome chair",
+            "img": "./images/image3.jpeg",
+            "price": "271.00",
+            "discount": "256.00",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore, qui voluptas, illum provident rem reiciendis impedit excepturi dolor accusantium, minus blanditiis voluptates saepe laboriosam itaque dolores aperiam rerum molestias."
+        },
+
+        {
+            "id": 4,
+            "title": "awesome chair",
+            "img": "./images/image4.jpeg",
+            "price": "271.00",
+            "discount": "256.00",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore, qui voluptas, illum provident rem reiciendis impedit excepturi dolor accusantium, minus blanditiis voluptates saepe laboriosam itaque dolores aperiam rerum molestias."
+        },
+
+        {
+            "id": 5,
+            "title": "awesome chair",
+            "img": "./images/image5.jpeg",
+            "price": "271.00",
+            "discount": "256.00",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore, qui voluptas, illum provident rem reiciendis impedit excepturi dolor accusantium, minus blanditiis voluptates saepe laboriosam itaque dolores aperiam rerum molestias."
+        },
+
+        {
+            "id": 6,
+            "title": "awesome chair",
+            "img": "./images/image6.jpeg",
+            "price": "271.00",
+            "discount": "256.00",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore, qui voluptas, illum provident rem reiciendis impedit excepturi dolor accusantium, minus blanditiis voluptates saepe laboriosam itaque dolores aperiam rerum molestias."
+        },
+
+        {
+            "id": 7,
+            "title": "awesome chair",
+            "img": "./images/image7.jpeg",
+            "price": "271.00",
+            "discount": "256.00",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore, qui voluptas, illum provident rem reiciendis impedit excepturi dolor accusantium, minus blanditiis voluptates saepe laboriosam itaque dolores aperiam rerum molestias."
+        },
+
+        {
+            "id": 8,
+            "title": "awesome chair",
+            "img": "./images/image8.jpeg",
+            "price": "271.00",
+            "discount": "256.00",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore, qui voluptas, illum provident rem reiciendis impedit excepturi dolor accusantium, minus blanditiis voluptates saepe laboriosam itaque dolores aperiam rerum molestias."
+        },
+
+        {
+            "id": 9,
+            "title": "awesome chair",
+            "img": "./images/image9.jpeg",
+            "price": "271.00",
+            "discount": "256.00",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore, qui voluptas, illum provident rem reiciendis impedit excepturi dolor accusantium, minus blanditiis voluptates saepe laboriosam itaque dolores aperiam rerum molestias."
+        }
+    ]
+}
